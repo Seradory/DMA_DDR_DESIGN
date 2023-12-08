@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="DMA_TEST" location="C:/Users/alise/Desktop/VIVADO/PROJECTS/NEXYS_DDR_DMA_LOOP/PS/DMA_TEST" platform="C:/Users/alise/Desktop/VIVADO/PROJECTS/NEXYS_DDR_DMA_LOOP/PS/design_1_wrapper/export/design_1_wrapper/design_1_wrapper.xpfm" platformUID="xilinx:nexys4_ddr::0.0(custom)" systemProject="DMA_TEST_system" sysConfig="design_1_wrapper" runtime="cpp" cpu="domain_microblaze_0" cpuInstance="microblaze_0" os="standalone" mssSignature="777c861cf00c4c84cf75643a39e5a10f">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.668912475">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.236318205" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="memory_tests"/>
+</sdkproject:SdkProject>
